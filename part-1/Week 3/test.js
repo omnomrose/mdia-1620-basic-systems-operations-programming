@@ -7,7 +7,12 @@
  */
 
 var x = myFunction (2,3);
-
+/**
+ * @desc This calculates the area of the floor.
+ * @param {*} numOne is the width.
+ * @param {*} numTwo is the height.
+ * @returns returns the area of the floor.
+ */
 function myFunction(numOne, numTwo) {
     return numOne * numTwo;
 }
